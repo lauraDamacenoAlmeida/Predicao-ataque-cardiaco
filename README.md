@@ -8,6 +8,7 @@ Esse estudo teve como base o paper realizado por [Rajdhan et al. 2020], que busc
 ## Estrutura do projeto
 - Codigo-final.ipynb: notebook com os códigos das análises, insights extraídos e construção dos modelos.
 - heart.csv: arquivo com os dados
+- Resultados.xlsx: arquivo excel com os resultados do desempenho dos modelos nos testes
 - Melhorando_o_desempenho_da_arvore-Laura_Damaceno.pdf: texto final com as explicações dos resultados, metodologia utilizada e conclusão.
 
 
